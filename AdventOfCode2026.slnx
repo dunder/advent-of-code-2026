@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Puzzles/Puzzles.csproj" />
+  <Project Path="Util/Util.csproj" />
+</Solution>
