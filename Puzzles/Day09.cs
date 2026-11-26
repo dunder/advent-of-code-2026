@@ -12,12 +12,12 @@ public class Day09
         this.output = output;
     }
 
-    private static int Problem1(IList<string> input)
+    private static int Problem1(string[] input)
     {
         return 0;
     }
 
-    private static int Problem2(IList<string> input)
+    private static int Problem2(string[] input)
     {
         return 0;
     }
